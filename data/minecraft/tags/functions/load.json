@@ -1,3 +1,8 @@
 {
-	"values": [ "unlock_recipes:reload", "one_player_sleep:reload" ]
+	"values": [ 
+		"unlock_recipes:load", 
+		"one_player_sleep:load", 
+		"afk_display:load",
+		"afk_display:second" 
+	]
 }
