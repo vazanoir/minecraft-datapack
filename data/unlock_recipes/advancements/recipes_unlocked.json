@@ -1,0 +1,23 @@
+{
+	"display": 
+	{
+		"icon": 
+		{
+			"item": "minecraft:parrot_spawn_egg"			
+		},
+		"title": "Recipes unlocked",
+		"description": ["",{"text":"Everything's working","color":"yellow"}],
+		"background": "minecraft:textures/block/jungle_log.png",
+		"announce_to_chat": false
+	},
+	"criteria": 
+	{
+		"tick": 
+		{
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "new_recipes:end_portal_frame"
+			}
+		}
+	}
+}

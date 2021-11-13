@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "obo",
+    "sss"
+  ],
+  "key": {
+    "o": {
+      "item": "minecraft:obsidian"
+    },
+    "b": {
+      "item": "minecraft:dragon_breath"
+    },
+    "s": {
+      "item": "minecraft:end_stone"
+    }
+  },
+  "result": {
+      "item": "minecraft:end_portal_frame"
+  }
+}
